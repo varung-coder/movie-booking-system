@@ -3,7 +3,7 @@
 CineBook is a state-of-the-art, full-stack movie booking application featuring a sleek, premium design. Built with React and powered by Firebase, it offers a seamless experience from browsing the latest hits to selecting your favorite seats.
 
 ## Live Deployment 
-https://movie-booking-system-7j53sq3pd-g-varuns-projects.vercel.app/
+https://movie-booking-system-two.vercel.app/
 
 ## ✨ Features
 
